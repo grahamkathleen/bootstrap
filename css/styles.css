@@ -1,8 +1,11 @@
 body {
-  padding: 50px;
+  padding-top: 70px;
   background-color: #abcdef;
-  font-family: garamond; 
+  font-family: garamond;
 }
 .jumbotron {
   padding: 25px;
+}
+.container {
+  max-width: 1000px;
 }
